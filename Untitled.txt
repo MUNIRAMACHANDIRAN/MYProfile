@@ -1,0 +1,33 @@
+
+
+
+login - page, 
+
+center my image, backround ultimate colors, animation 3d and more. signup option need, once create account, save the data in sql data.
+while moving cursor that time will change the dashboard, 
+in menu cards, 3d animation, 
+
+after login dash board page, 
+my project, my education details, my skills and certification details, (Java, Python, HTML&CSS, Power BI, SQL, Oracle Database, Diploma in Data Analytics,) certificate details will be upload manually, 
+my project details ( land management9(vao-admin Portal), Help desk Ticketing Management, Resume Maker(ATS), TASMAC Shop Account management, VAO-Adangal(Account-1, II,), 
+the above project details will be upload github link description and card details shown, while select project link click option show.
+
+Experience page
+
+i have working in Desktop Support Engineer 2 Years apr 2020 to oct 2022 in arsus technology, Coimbatore,
+i have currently working desktop support engineer 1.6 years. comviva(client), bangalore
+Python devolper in Relentless systems, Chennai, 1.4 years
+Java developer, in mueen technology (client), bangalore, in 2 years.
+
+
+contact us - page
+
+Muniyappan Ramachandiran
+Web Developer, Data Analytics, AI Learner.
+#No.183-A, Salem Main Road, 
+New Pet, Krishnagiri - 635001
+Cell No.9092650870
+Email:muniramachandiran@gmail.com
+
+
+
