@@ -12,7 +12,7 @@ api.interceptors.request.use((config) => {
 });
 
 // Handle 401 auto-logout
-API.interceptors.response.use(
+api.interceptors.response.use(
     (res) => res,
     (err) => {
         if (err.response?.status === 401) {
