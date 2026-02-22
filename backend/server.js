@@ -16,7 +16,7 @@ app.use(cors({
     origin: [
         'http://localhost:5173',
         'http://localhost:3000',
-        'https://portfolio-backend-q017.onrender.com'
+        'https://myprofile-0he9.onrender.com'
     ],
     credentials: true
 }));
