@@ -1,6 +1,8 @@
 import axios from 'axios';
 
-const API = axios.create({ baseURL: '/api' });
+const api = axios.create({
+  baseURL: "https://portfolio-backend-q017.onrender.com"
+});
 
 // Attach JWT token to every request
 API.interceptors.request.use((config) => {
